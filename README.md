@@ -1,4 +1,4 @@
-# DSA-Final-Project-MiniGit
+#MiniGit
 
 A simplified Git-like version control system built in C++.  
 MiniGit allows users to track versions of files, make commits, manage branches, perform merges, and compare commits — all via command-line interaction and local file system operations.
